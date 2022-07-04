@@ -52,3 +52,16 @@ Interestingly enough, Thomas's scores didn't change all that much overall. They 
 
 ## Summary
 
+Overall I believe the academic dishonesty of the Thomas High 9th Graders had a negligible result. Thomas's status as #2 was retained, their scores dropped by, usually, .3% or less and because the students still attended the schools the sizes and budget per student didn't change. The lessons learned from the original analysis still apply. 
+
+What we learned from the original analysis can be summed up in two images:
+
+###### School Size Summary
+
+<img width="562" alt="School Size Summary" src="https://user-images.githubusercontent.com/105998378/177200401-1032ef10-168c-4a21-a6cd-ea334298761e.png">
+
+###### School Type Summary
+
+<img width="528" alt="School Type Summary" src="https://user-images.githubusercontent.com/105998378/177200448-d0748c56-d830-44cc-a1a5-294e1fd9c79e.png">
+
+The smaller charter schools had the best scores by far. If I had to give the district one overarching bit of advice that I gleaned from this data it would be to follow the charter school's lead and have small to medium-sized schools where the student-teacher ratio is better. That seems to be the key to improving test scores. 
